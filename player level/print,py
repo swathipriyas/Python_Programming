@@ -1,0 +1,2 @@
+s=int(input("enter the no"))
+print("hello" * s)
